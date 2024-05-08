@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:title="@string/home"
+        android:id="@+id/home"
+        android:icon="@drawable/baseline_home_24"/>
+
+    <item
+        android:title="@string/profile"
+        android:id="@+id/profile"
+        android:icon="@drawable/baseline_account_circle_24" />
+<!--this is for settings if we have time to do it-->
+<!--    <item-->
+<!--        android:title="@string/setting"-->
+<!--        android:id="@+id/setting"-->
+<!--        android:icon="@drawable/baseline_settings_24"/>-->
+</menu>
