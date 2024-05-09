@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Final_Reviewer</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="profile">Profile</string>
+    <string name="home">Home</string>
+    <string name="setting">Setting</string>
+    <string name="yelpKey">iRN7NqUfDsHFm6_XCM59vJGn_wty5VIK1l0CW8z7iyefPL1RoHNkotKydketjYqoQizvbMwCrK9da-n9g3fOv9-qnyEVO3iZcBkOzS-ugtZFHisg41E8nrePpxEsZnYx</string>
+    <string name="reviews">Reviews</string>
+</resources>
